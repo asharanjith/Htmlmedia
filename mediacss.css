@@ -14,7 +14,8 @@ nav{
 }
 #myFavVideo
 {
-    text-align:center;  
+    text-align:center; 
+    text-shadow: none; 
 }
 h3{
     text-align: center;
